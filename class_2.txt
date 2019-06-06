@@ -5,7 +5,7 @@ utensil_brand (string)
 is_erasable (boolean)
 utensil_length (float)
 
-utensil_medium (prints what medium it uses such as ink, lead, etc) Uses writing_medium attribute.
-utensil_brand (prints what brand the utensil is) uses utensil_brand attribute.
+which_medium (prints what medium it uses such as ink, lead, etc) Uses writing_medium attribute.
+which_brand (prints what brand the utensil is) uses utensil_brand attribute.
 erase_words (erases written words, if is_erasable boolean is true)
 measure_utensil (prints length of utensil in decimal inches)
