@@ -1,0 +1,11 @@
+instance = ballpoint_pen
+
+writing_medium = ink
+utensil_brand = bic
+is_erasable = false
+utensil_length = 3.4
+
+which_medium - prints the word "ink"
+which_brand - prints the word "bic"
+erase_words - does nothing, as the boolean is not true
+measure_utensil - prints the float "3.4"
