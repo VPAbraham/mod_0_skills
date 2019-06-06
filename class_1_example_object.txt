@@ -1,0 +1,11 @@
+instance = kickball
+
+color = red
+sport = kickball
+is_inflated = false
+diameter = 11.1 inches
+
+identify_color - prints the word "red"
+identify_sport - prints the word "kickball"
+inflate_ball - changes is_inflated value to "true"
+measure_diameter - prints the float "11.1"
