@@ -1,0 +1,11 @@
+class = ball
+
+color(string)
+sport(string)
+is_inflated(boolean)
+diameter(float)
+
+identify_color (prints what color the ball is) uses color attribute.
+identify_sport (prints what sport the balls is used for) uses sport attribute.
+inflate_ball (sets is_inflated boolean to yes).
+measure_diamete (gives the diameter in decimal inches) uses diameter attribute
